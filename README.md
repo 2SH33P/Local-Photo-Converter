@@ -1,4 +1,5 @@
 > 本项目由 OpenAI Codex 生成，旨在实现极限的图片压缩以方便图床上传于带宽节省。
+> 您可以直接访问 https://2sh33p.github.io/Local-Webp-Converter/ 以查看部署效果。
 
 # 本地图片转 WebP
 
